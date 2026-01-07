@@ -1,0 +1,60 @@
+2025-12-27 08:32:33,339 | WARNING | (trapped) error reading bcrypt version
+Traceback (most recent call last):
+  File "C:\Users\AD-LAB\AppData\Local\Programs\Python\Python311\Lib\site-packages\passlib\handlers\bcrypt.py", line 620, in _load_backend_mixin
+    version = _bcrypt.__about__.__version__
+              ^^^^^^^^^^^^^^^^^
+AttributeError: module 'bcrypt' has no attribute '__about__'
+2025-12-27 08:38:08,324 | WARNING | (trapped) error reading bcrypt version
+Traceback (most recent call last):
+  File "C:\Users\AD-LAB\AppData\Local\Programs\Python\Python311\Lib\site-packages\passlib\handlers\bcrypt.py", line 620, in _load_backend_mixin
+    version = _bcrypt.__about__.__version__
+              ^^^^^^^^^^^^^^^^^
+AttributeError: module 'bcrypt' has no attribute '__about__'
+2025-12-27 08:38:22,781 | WARNING | (trapped) error reading bcrypt version
+Traceback (most recent call last):
+  File "C:\Users\AD-LAB\AppData\Local\Programs\Python\Python311\Lib\site-packages\passlib\handlers\bcrypt.py", line 620, in _load_backend_mixin
+    version = _bcrypt.__about__.__version__
+              ^^^^^^^^^^^^^^^^^
+AttributeError: module 'bcrypt' has no attribute '__about__'
+2025-12-27 08:43:12,152 | WARNING | (trapped) error reading bcrypt version
+Traceback (most recent call last):
+  File "C:\Users\AD-LAB\AppData\Local\Programs\Python\Python311\Lib\site-packages\passlib\handlers\bcrypt.py", line 620, in _load_backend_mixin
+    version = _bcrypt.__about__.__version__
+              ^^^^^^^^^^^^^^^^^
+AttributeError: module 'bcrypt' has no attribute '__about__'
+2025-12-27 08:53:32,604 | WARNING | (trapped) error reading bcrypt version
+Traceback (most recent call last):
+  File "C:\Users\AD-LAB\AppData\Local\Programs\Python\Python311\Lib\site-packages\passlib\handlers\bcrypt.py", line 620, in _load_backend_mixin
+    version = _bcrypt.__about__.__version__
+              ^^^^^^^^^^^^^^^^^
+AttributeError: module 'bcrypt' has no attribute '__about__'
+2025-12-27 08:54:43,205 | WARNING | (trapped) error reading bcrypt version
+Traceback (most recent call last):
+  File "C:\Users\AD-LAB\AppData\Local\Programs\Python\Python311\Lib\site-packages\passlib\handlers\bcrypt.py", line 620, in _load_backend_mixin
+    version = _bcrypt.__about__.__version__
+              ^^^^^^^^^^^^^^^^^
+AttributeError: module 'bcrypt' has no attribute '__about__'
+2025-12-27 08:54:44,425 | WARNING | (trapped) error reading bcrypt version
+Traceback (most recent call last):
+  File "C:\Users\AD-LAB\AppData\Local\Programs\Python\Python311\Lib\site-packages\passlib\handlers\bcrypt.py", line 620, in _load_backend_mixin
+    version = _bcrypt.__about__.__version__
+              ^^^^^^^^^^^^^^^^^
+AttributeError: module 'bcrypt' has no attribute '__about__'
+2025-12-27 08:54:46,128 | WARNING | (trapped) error reading bcrypt version
+Traceback (most recent call last):
+  File "C:\Users\AD-LAB\AppData\Local\Programs\Python\Python311\Lib\site-packages\passlib\handlers\bcrypt.py", line 620, in _load_backend_mixin
+    version = _bcrypt.__about__.__version__
+              ^^^^^^^^^^^^^^^^^
+AttributeError: module 'bcrypt' has no attribute '__about__'
+2025-12-27 08:55:49,103 | WARNING | (trapped) error reading bcrypt version
+Traceback (most recent call last):
+  File "C:\Users\AD-LAB\AppData\Local\Programs\Python\Python311\Lib\site-packages\passlib\handlers\bcrypt.py", line 620, in _load_backend_mixin
+    version = _bcrypt.__about__.__version__
+              ^^^^^^^^^^^^^^^^^
+AttributeError: module 'bcrypt' has no attribute '__about__'
+2025-12-27 08:58:22,888 | WARNING | (trapped) error reading bcrypt version
+Traceback (most recent call last):
+  File "C:\Users\AD-LAB\AppData\Local\Programs\Python\Python311\Lib\site-packages\passlib\handlers\bcrypt.py", line 620, in _load_backend_mixin
+    version = _bcrypt.__about__.__version__
+              ^^^^^^^^^^^^^^^^^
+AttributeError: module 'bcrypt' has no attribute '__about__'
